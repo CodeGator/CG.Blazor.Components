@@ -1,29 +1,4 @@
 {
-  "api/CG.Blazor.Components.AuditDialog-1.html": {
-    "href": "api/CG.Blazor.Components.AuditDialog-1.html",
-    "title": "Class AuditDialog<T>",
-    "keywords": "Class AuditDialog<T> This class is the code-behind for the AuditDialog<T> razor view. Inheritance System.Object AuditDialog<T> Inherited Members System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() System.Object.ReferenceEquals(System.Object, System.Object) System.Object.ToString() Namespace : CG.Blazor.Components Assembly : CG.Blazor.Components.dll Syntax public class AuditDialog<T> where T : AuditedModelBase Type Parameters Name Description T Properties Model This property contains a reference to the model. Declaration [Parameter] public T Model { get; set; } Property Value Type Description T"
-  },
-  "api/CG.Blazor.Components.ErrorBlock.html": {
-    "href": "api/CG.Blazor.Components.ErrorBlock.html",
-    "title": "Class ErrorBlock",
-    "keywords": "Class ErrorBlock This class is the code-behind for the ErrorBlock component. Inheritance System.Object ErrorBlock Inherited Members System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() System.Object.ReferenceEquals(System.Object, System.Object) System.Object.ToString() Namespace : CG.Blazor.Components Assembly : CG.Blazor.Components.dll Syntax public class ErrorBlock Properties Content This property contains the content for the block. Declaration [Parameter] public string Content { get; set; } Property Value Type Description System.String Dismissable This property determines whether the block can be dismissed. Declaration [Parameter] public bool Dismissable { get; set; } Property Value Type Description System.Boolean"
-  },
-  "api/CG.Blazor.Components.HelpBlock.html": {
-    "href": "api/CG.Blazor.Components.HelpBlock.html",
-    "title": "Class HelpBlock",
-    "keywords": "Class HelpBlock This class is the code-behind for the HelpBlock component. Inheritance System.Object HelpBlock Inherited Members System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() System.Object.ReferenceEquals(System.Object, System.Object) System.Object.ToString() Namespace : CG.Blazor.Components Assembly : CG.Blazor.Components.dll Syntax public class HelpBlock Properties ChildContent This property contains child content for the block. Declaration [Parameter] public RenderFragment ChildContent { get; set; } Property Value Type Description Microsoft.AspNetCore.Components.RenderFragment Content This property contains the content for the block. Declaration [Parameter] public string Content { get; set; } Property Value Type Description System.String Visible This property indicated whether or not the block is visible. Declaration [Parameter] public bool Visible { get; set; } Property Value Type Description System.Boolean"
-  },
-  "api/CG.Blazor.Components.html": {
-    "href": "api/CG.Blazor.Components.html",
-    "title": "Namespace CG.Blazor.Components",
-    "keywords": "Namespace CG.Blazor.Components Classes AuditDialog<T> This class is the code-behind for the AuditDialog<T> razor view. ErrorBlock This class is the code-behind for the ErrorBlock component. HelpBlock This class is the code-behind for the HelpBlock component. InfoBlock This class is the code-behind for the InfoBlock component."
-  },
-  "api/CG.Blazor.Components.InfoBlock.html": {
-    "href": "api/CG.Blazor.Components.InfoBlock.html",
-    "title": "Class InfoBlock",
-    "keywords": "Class InfoBlock This class is the code-behind for the InfoBlock component. Inheritance System.Object InfoBlock Inherited Members System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() System.Object.ReferenceEquals(System.Object, System.Object) System.Object.ToString() Namespace : CG.Blazor.Components Assembly : CG.Blazor.Components.dll Syntax public class InfoBlock Properties Content This property contains the content for the block. Declaration [Parameter] public string Content { get; set; } Property Value Type Description System.String Dismissable This property determines whether the block can be dismissed. Declaration [Parameter] public bool Dismissable { get; set; } Property Value Type Description System.Boolean"
-  },
   "articles/intro.html": {
     "href": "articles/intro.html",
     "title": "Add your introductions here!",
