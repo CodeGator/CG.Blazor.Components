@@ -34,10 +34,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CG.Blazor" Version="2021.2.10" />
-    <PackageReference Include="CG.Business" Version="2021.2.25" />
-    <PackageReference Include="MudBlazor" Version="5.0.11" />
-    <PackageReference Include="Nerdbank.GitVersioning" Version="3.4.205">
+    <PackageReference Include="CG.Blazor" Version="2021.2.17" />
+    <PackageReference Include="CG.Business" Version="2021.2.29" />
+    <PackageReference Include="MudBlazor" Version="5.0.13" />
+    <PackageReference Include="Nerdbank.GitVersioning" Version="3.4.216">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
