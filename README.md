@@ -6,6 +6,7 @@
 [![NuGet downloads](https://img.shields.io/nuget/dt/CG.Blazor.Components.svg?style=flat)](https://nuget.org/packages/CG.Blazor.Components)
 ![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Blazor.Components/58)
 [![Github discussion](https://img.shields.io/badge/Discussion-online-blue)](https://github.com/CodeGator/CG.Blazor.Components/discussions)
+[![CG.Blazor.Components on fuget.org](https://www.fuget.org/packages/CG.Blazor.Components/badge.svg)](https://www.fuget.org/packages/CG.Blazor.Components)
 
 #### What does it do?
 The package contains razor components used by other CodeGator packages.
@@ -20,6 +21,8 @@ PM> Install-Package CG.Blazor.Components
 
 #### How do I contact you?
 If you've spotted a bug in the code please use the project Issues [HERE](https://github.com/CodeGator/CG.Blazor.Components/issues)
+
+We have a discussion group [HERE](https://github.com/CodeGator/CG.Blazor.Components/discussions)
 
 #### Is there any documentation?
 There is developer documentation [HERE](https://codegator.github.io/CG.Blazor.Components/)
